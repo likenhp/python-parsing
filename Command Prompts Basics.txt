@@ -1,0 +1,6 @@
+Command Prompt on windows can be found in searchbar with cmd
+
+cd (change directory)
+cd .. (go back a directory)
+dir (see all folders and files in current directory)
+cls (to clear command prompt)
