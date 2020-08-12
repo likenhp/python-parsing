@@ -108,11 +108,6 @@ celerybeat.pid
 .env
 .venv
 env/
-venv/bin
-venv/build
-venv/include
-venv/Lib
-venv/local
 venv/
 ENV/
 env.bak/
